@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bF4V9V+iFj0ah2iGRLXrQGlEHwQzUPu9MrIKHH8rCDi5tJquF1T0YzTtTy/Nfc7YOcFF8SymQQJyFmQxV2xM+A==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\source code\\ShapeApp\\ShapeProcessor\\ShapeProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eoinm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
